@@ -1,2 +1,2 @@
 # Scalable-Web-Project
-Scalable web project with front end written in Angular and Backend with Java Featuring Base Classes with Generic Types.
+Scalable web project with front end written in Angular and Backend with Java Spring framework Featuring base classes with Generic Types.
